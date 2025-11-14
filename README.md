@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Thien 👋
 
 🔭 Languages I've Worked With	
 Java, Python, C++, JavaScript, TypeScript, HTML, CSS, SQL, PHP, F#, Lua, C#, Ruby 
