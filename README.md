@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+🔭 Languages I've Worked With	
+Java, Python, C++, JavaScript, TypeScript, HTML, CSS, SQL, PHP, F#, Lua, C#, Ruby 
+
+🌱 DBMS:	
+PostgreSQL, Firebase, Supabase 
+
+🤔 Frameworks and Web tools:	
+Rails, React, Next.js, Tailwind CSS, RPC 
+
+💬 Cloud and Deployment:	
+Docker, Vercel, AWS 
+
+📫 APIs:	
+Google Maps API, OpenStreetMap Nominatim, Piston API 
+
+https://www.linkedin.com/in/anh-thien-nguyen/
+
 <!--
 **anhthiennguyen/anhthiennguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
