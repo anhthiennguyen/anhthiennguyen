@@ -4,7 +4,7 @@
 Java, Python, C++, JavaScript, TypeScript, HTML, CSS, SQL, PHP, F#, Lua, C#, Ruby 
 
 🌱 DBMS:	
-PostgreSQL, Firebase, Supabase 
+PostgreSQL, MySQL, Firebase, Supabase 
 
 🤔 Frameworks and Web tools:	
 Rails, React, Next.js, Tailwind CSS, RPC 
